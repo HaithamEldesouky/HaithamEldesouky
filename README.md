@@ -1,14 +1,17 @@
 # Hi, I'm Haitham Eldesouky
 
-IT infrastructure engineer. I also develop tools and take on different freelance requests.
+**IT & Software Engineer | Development, Automation and IT Solutions**
+
+IT & software engineer in Cairo. I build software, automate work and solve IT problems, and I take on different freelance projects.
 
 ## Shop and hire
 
-- Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com)
+- Portfolio: [haithameldesouky.github.io/portfolio](https://haithameldesouky.github.io/portfolio/)
+- GitHub: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
+- Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
 - Hire me on Fiverr: [fiverr.com/haithamashraf](https://www.fiverr.com/haithamashraf)
 - Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01741b0beadfbad916)
-- Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
-- Portfolio gallery: [haithameldesouky.github.io/portfolio](https://haithameldesouky.github.io/portfolio/)
+- Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com)
 
 ## Featured work
 
