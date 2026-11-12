@@ -1,6 +1,6 @@
 # Hi, I'm Haitham Eldesouky
 
-IT systems administrator in Cairo. I also take on different freelance work, including development.
+IT infrastructure engineer. I also develop tools and take on different freelance requests.
 
 ## Shop and hire
 
