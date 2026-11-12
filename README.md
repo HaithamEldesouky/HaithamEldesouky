@@ -10,6 +10,7 @@ IT systems administrator in Cairo. On the side I make:
 
 - Shop (clipart, patterns, IT templates): [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com)
 - Hire me on Fiverr: [fiverr.com/haithamashraf](https://www.fiverr.com/haithamashraf)
+- Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
 - Portfolio gallery: [haithameldesouky.github.io/portfolio](https://haithameldesouky.github.io/portfolio/)
 
 ## Featured work
