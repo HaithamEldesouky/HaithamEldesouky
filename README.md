@@ -6,6 +6,7 @@ IT systems administrator in Cairo. I also take on different freelance work, incl
 
 - Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com)
 - Hire me on Fiverr: [fiverr.com/haithamashraf](https://www.fiverr.com/haithamashraf)
+- Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01741b0beadfbad916)
 - Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
 - Portfolio gallery: [haithameldesouky.github.io/portfolio](https://haithameldesouky.github.io/portfolio/)
 
