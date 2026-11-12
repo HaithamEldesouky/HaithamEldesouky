@@ -1,10 +1,6 @@
 # Hi, I'm Haitham Eldesouky
 
-IT systems administrator in Cairo. On the side I make:
-
-- **Excel and Google Sheets** dashboards, reports and data cleaning
-- **PowerShell automation** for Windows Server admin jobs and reports
-- **Vector clipart and game assets**, drawn with code (Python SVG), no AI image generator
+IT systems administrator in Cairo. I also take on different freelance work, including development.
 
 ## Shop and hire
 
