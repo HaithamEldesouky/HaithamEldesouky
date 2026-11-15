@@ -12,7 +12,7 @@ IT & software engineer in Cairo. I build software, automate work and solve IT pr
 - Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
 - Hire me on Fiverr: [fiverr.com/haithamashraf](https://www.fiverr.com/haithamashraf)
 - Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01741b0beadfbad916)
-- Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com)
+- Shop: [haithameldesouky.gumroad.com](https://haithameldesouky.gumroad.com)
 
 ## Featured work
 
