@@ -6,7 +6,8 @@ IT & software engineer in Cairo. I build software, automate work and solve IT pr
 
 ## Shop and hire
 
-- Portfolio: [haithameldesouky.github.io/portfolio](https://haithameldesouky.github.io/portfolio/)
+- Portfolio: [haithameldesouky.com](https://haithameldesouky.com)
+- Contact: hello@haithameldesouky.com
 - GitHub: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
 - Behance: [behance.net/haithameldesou](https://www.behance.net/haithameldesou)
 - Hire me on Fiverr: [fiverr.com/haithamashraf](https://www.fiverr.com/haithamashraf)
